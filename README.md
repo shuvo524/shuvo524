@@ -5,7 +5,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1AQd6f77E12x94V4tS9zQ4ZVEWxJmKsJR/view?usp=drive_link" width="100%" alt="Shuvo Das GitHub Banner" />
+  <img src="./github-banner.png" width="100%" alt="Shuvo Das GitHub Banner" />
 </p>
 
 <!-- ========================= -->
